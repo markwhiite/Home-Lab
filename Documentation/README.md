@@ -1,6 +1,6 @@
 
 **Purpose**
-The purpose of creating my virtual home-lab is to create a safe environment for practicing cybersecurity , IT operations, and networking. 
+- The purpose of creating my virtual home-lab is to create a safe environment for practicing cybersecurity , IT operations, and networking. 
 My setup includes an old pc, multiple VMs, network segmentation, many virtualization tools, and creating attack/defense scenarios.
 Tools Used: Host Machine (windows),  Kali Linux (attacker), VirtualBox, Ubuntu (server)
 
