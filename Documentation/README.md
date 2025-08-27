@@ -8,3 +8,8 @@ My setup includes an old pc, multiple VMs, network segmentation, many virtualiza
 **Viewing Documentation**
 - When viewing documentation on a mobile device you make need to **download the file** to view the entire document.
 - Simply open the documentation folder > scroll to pdf and click the three dots to download.
+
+**My Projects that required a home-lab**
+- SIEM log Analysis
+- Malware Analysis
+- Firewall & IDS/IPS Setup
