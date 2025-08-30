@@ -13,3 +13,19 @@ My setup includes an old pc, multiple VMs, network segmentation, many virtualiza
 - SIEM log Analysis
 - Malware Analysis
 - Firewall & IDS/IPS Setup
+
+  
+<img width="1532" height="958" alt="Mark's Lab Topology" src="https://github.com/user-attachments/assets/61b0d14b-5ed6-443e-9d83-e6c9df0e1302" />
+
+
+**Home Lab Scenario**
+- I have been contracted to the company "Mark Estates" and will be in charge of their IT infrastructure and systems.
+- They currently have 50 employees connected to a workgroup network
+    - They have no central file shares or storage
+    - No backups
+    - No monitoring or AV
+    - No user management
+    - No Firewalls
+    - Nothing…
+- My goal is to implement these aspects, harden the network and devices, monitor and defend the network
+- I will use this Lab topology  in many of my projects
