@@ -6,7 +6,7 @@
 <img width="1700" height="1120" alt="vbox" src="https://github.com/user-attachments/assets/12ecb54f-b9de-4224-a0cc-1c95935c55fd" />
 
 
-<div align="center">(The images above take a look my lab topology and virtual home-lab set up.)</div>
+<p align="center"><em>The images above take a look at <strong>my lab topology</strong> and <strong>virtual home-lab set up.</strong></em></p>
 
 
 **Purpose**
