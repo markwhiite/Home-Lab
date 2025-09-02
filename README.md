@@ -5,7 +5,7 @@
 
 <img width="1700" height="1120" alt="vbox" src="https://github.com/user-attachments/assets/12ecb54f-b9de-4224-a0cc-1c95935c55fd" />
 
-                              These two images take a look my the lab topology and virtual home-lab set up
+These images above take a look **my lab topology** and **virtual home-lab set up**
 
 
 
