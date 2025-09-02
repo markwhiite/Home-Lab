@@ -1,5 +1,13 @@
 
-<img width="1532" height="958" alt="Mark's Lab Topology" src="https://github.com/user-attachments/assets/61b0d14b-5ed6-443e-9d83-e6c9df0e1302" />
+<img width="1773" height="1073" alt="Mark's Lab Topology 2" src="https://github.com/user-attachments/assets/2d27a910-78a5-41ce-be91-30be22035ac5" />
+
+
+
+<img width="177 <img width="1700" height="1120" alt="vbox" src="https://github.com/user-attachments/assets/12ecb54f-b9de-4224-a0cc-1c95935c55fd" />
+
+                              These two images take a look my the lab topology and virtual home-lab set up
+
+
 
 **Purpose**
 - The purpose of my virtual home-lab is to create a safe environment for practicing cybersecurity , IT operations, and networking. 
