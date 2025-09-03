@@ -1,4 +1,4 @@
-<img width="1532" height="958" alt="Mark's Lab Topology" src="https://github.com/user-attachments/assets/2aa108d8-b76b-4bd4-a102-20f06fcafea8" />
+<img width="1773" height="1073" alt="Mark's Lab Topology" src="https://github.com/user-attachments/assets/8053befa-e019-4c3d-a561-d9e5e444be22" />
 
 - The image above takes a look at the **network topology** I have created for this scenario. To the left are the **virtual servers** that I will set up which include an Email server, Windows server
 that will run programs like Active Directory, Domain Controller, DNS, Along with the Ubuntu Server and an Elastic search stack. Furthermore, I will install a **OPN sense next generation fire wall**,
