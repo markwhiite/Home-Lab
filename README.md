@@ -35,4 +35,6 @@ My setup includes an old pc, multiple VMs, network segmentation, many virtualiza
 - Malware Analysis
 - Firewall & IDS/IPS Setup
 
-<align="center"><em>👉 **[Visit my portfolio here](https://markwhiite.github.io)** to see more of my projects. </em>
+<h3 align="center">
+  <em>👉 <a href="https://markwhiite.github.io">Visit my portfolio here</a> to see more of my projects.</em>
+</h3>
